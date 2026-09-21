@@ -1,4 +1,3 @@
-
 select s.name
 from salesperson as s 
 left join orders as o 
